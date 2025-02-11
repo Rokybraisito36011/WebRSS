@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>My Blog</title>
-  <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
-  <language>en-us</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+  <title>Blog RSS</title>
+  <link>https://github.com/Rokybraisito36011/WebRSS/blob/main/index.html</link>
+  <description>Este es mi blog personal</description>
+  <language>es</language>
+  <lastBuildDate>Mar, 11 Feb 2025 12:00:00 GMT</lastBuildDate>
 
   <item>
-    <title>Blog Entry 1</title>
+    <title>Trump ataca de lleno al metal gallego: peligran 100 millones en exportaciones</title>
     <link>https://www.example.com/blog-entry-1.html</link>
-    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
-<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
+    <description>Los aranceles del 25 % a acero y aluminio afectan a un centenar de empresas.</description>
+<pubDate>Sáb, 1 Feb 2025 12:00:00 GMT</pubDate>
 <guid>https://www.example.com/blog-entry-1.html</guid>
 </item>
 
   <item>
-    <title>Blog Entry 2</title>
+    <title>Musk ofrece 97.400 millones de dólares por OpenAI, propietaria de ChatGPT</title>
     <link>https://www.example.com/blog-entry-2.html</link>
-    <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
-    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
+    <description>El CEO Sam Altman rechaza la oferta: «No, gracias, pero compraremos Twitter por 9.740 millones si quieres».</description>
+    <pubDate>Mar, 11 Feb 2025 12:00:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-2.html</guid>
   </item>
   <item>
-    <title>Blog Entry 3</title>
+    <title>Condenan a tres años de cárcel al falso dentista que estafó más de 42.000 euros a un matrimonio ourensano</title>
     <link>https://www.example.com/blog-entry-3.html</link>
-    <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
-    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
+    <description>La Audiencia Provincial de Ourense considera probado que el hombre engañó a sus víctimas reiteradamente</description>
+    <pubDate>Mar, 21 Ene 2025 12:00:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-3.html</guid>
   </item>
 </channel>
