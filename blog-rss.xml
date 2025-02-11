@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
   <title>Blog RSS</title>
-  <link>https://github.com/Rokybraisito36011/WebRSS/blob/main/index.html</link>
+  <link>https://Rokybraisito36011.github/WebRSS/blog-rss.xml</link>
   <description>Este es mi blog personal</description>
   <language>es</language>
   <lastBuildDate>Mar, 11 Feb 2025 12:00:00 GMT</lastBuildDate>
